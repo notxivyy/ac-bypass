@@ -1,0 +1,8 @@
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\bin\Debug\AntiCheat.exe.config
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\bin\Debug\AntiCheat.exe
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\bin\Debug\AntiCheat.pdb
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\obj\Debug\AntiCheat.csproj.AssemblyReference.cache
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\obj\Debug\AntiCheat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\obj\Debug\AntiCheat.csproj.CoreCompileInputs.cache
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\obj\Debug\AntiCheat.exe
+C:\Users\Minec\source\repos\AntiCheat\AntiCheat\obj\Debug\AntiCheat.pdb
