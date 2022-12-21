@@ -26,12 +26,12 @@ namespace AntiCheat
             
             process.WaitForInputIdle();
             
-            string auroradllpath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "/Atomic.dll";
+            string dll = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "/Dll.dll";
             new Process()
             {
                 StartInfo = {
 
-                                Arguments = string.Format("\"{0}\" \"{1}\"", (object) process.Id, (object) auroradllpath),
+                                Arguments = string.Format("\"{0}\" \"{1}\"", (object) process.Id, (object) dll),
                                 CreateNoWindow = true,
                                 UseShellExecute = false,
                                 FileName = ($"{tempPath}/Inject.exe")
